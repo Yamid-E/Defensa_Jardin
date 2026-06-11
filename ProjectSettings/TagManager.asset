@@ -59,8 +59,14 @@ TagManager:
   - name: Suelo
     uniqueID: 3698129219
     locked: 0
+  - name: Lamparas
+    uniqueID: 3296010707
+    locked: 0
   - name: Plantas
     uniqueID: 4154673991
+    locked: 0
+  - name: Zona_Crafteo
+    uniqueID: 2067735659
     locked: 0
   - name: Particulas
     uniqueID: 3364095749
