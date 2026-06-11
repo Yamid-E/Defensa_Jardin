@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Cielo
+    uniqueID: 3193889287
+    locked: 0
+  - name: Nubes
+    uniqueID: 459109769
+    locked: 0
+  - name: "Monta\xF1as_Lejanas"
+    uniqueID: 1161695001
+    locked: 0
+  - name: "Monta\xF1as_Cercanas"
+    uniqueID: 3484638611
+    locked: 0
+  - name: Edificio
+    uniqueID: 2287757593
+    locked: 0
+  - name: Suelo
+    uniqueID: 3698129219
+    locked: 0
+  - name: Plantas
+    uniqueID: 4154673991
+    locked: 0
+  - name: Particulas
+    uniqueID: 3364095749
+    locked: 0
+  - name: UI
+    uniqueID: 3169728121
+    locked: 0
+  m_RenderingLayers:
+  - Default
