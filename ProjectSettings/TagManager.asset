@@ -56,6 +56,21 @@ TagManager:
   - name: Edificio
     uniqueID: 2287757593
     locked: 0
+  - name: Ventanas
+    uniqueID: 1465018261
+    locked: 0
+  - name: Vecino
+    uniqueID: 3825186889
+    locked: 0
+  - name: Cortinas
+    uniqueID: 3652816663
+    locked: 0
+  - name: Cristal
+    uniqueID: 888574179
+    locked: 0
+  - name: Materas
+    uniqueID: 4139455497
+    locked: 0
   - name: Suelo
     uniqueID: 3698129219
     locked: 0
