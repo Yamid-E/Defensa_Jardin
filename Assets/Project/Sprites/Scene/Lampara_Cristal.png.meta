@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 0044c2ddfc513c942bd05e14a0446303
+guid: c8fc67599ef255c41810bcee4e979744
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5650722525748918803
-    second: Lamparas_0
-  - first:
-      213: 3059498119399743617
-    second: Lamparas_1
-  - first:
-      213: -7913874859083562139
-    second: Lamparas_2
+      213: -5491827923147454970
+    second: Lampara_Cristal_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -145,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lamparas_0
+      name: Lampara_Cristal_0
       rect:
         serializedVersion: 2
-        x: 314
-        y: 329
-        width: 20
-        height: 248
+        x: 0
+        y: 0
+        width: 22
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,52 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de500783dc99491b0800000000000000
-      internalID: -5650722525748918803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lamparas_1
-      rect:
-        serializedVersion: 2
-        x: 738
-        y: 329
-        width: 20
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1802cc56455857a20800000000000000
-      internalID: 3059498119399743617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lamparas_2
-      rect:
-        serializedVersion: 2
-        x: 1160
-        y: 329
-        width: 20
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5630e63ceb44c2290800000000000000
-      internalID: -7913874859083562139
+      spriteID: 6068931d99b19c3b0800000000000000
+      internalID: -5491827923147454970
       vertices: []
       indices: 
       edges: []
@@ -224,9 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Lamparas_0: -5650722525748918803
-      Lamparas_1: 3059498119399743617
-      Lamparas_2: -7913874859083562139
+      Lampara_Cristal_0: -5491827923147454970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
